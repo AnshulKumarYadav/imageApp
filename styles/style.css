@@ -77,3 +77,16 @@ h1{
     grid-template-rows: repeat(auto,250px);
     gap: 20px;
 }
+
+#container button{
+    background-color: rgb(13, 221, 13);
+    border: none;
+    border-radius: 8px;
+    width: 80px;
+    height: 25px;
+    color: #fff;
+    cursor: pointer;
+}
+#container button:hover{
+    background-color: rgb(8, 157, 8);
+}
