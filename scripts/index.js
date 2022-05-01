@@ -48,3 +48,6 @@ function categorySearch (){
 for(let el of categories){
     el.addEventListener("click",categorySearch);
 }
+
+
+
